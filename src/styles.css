@@ -1,0 +1,50 @@
+#subtitle {
+    font-family: 'Playfair Display', serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#images img {
+    max-height: 75vh;
+}
+
+#images {
+    max-width: 1000px;
+}
+
+#gif-container {
+    /* padding-left: 90px; */
+    margin: auto;
+    max-width: 1100px;
+    padding-top: 50px;
+}
+
+/* #gif-container img { */
+    /* max-height: 75vh; */
+/* } */
+
+/* #carousel-container {
+    background-color: grey;
+} */
+
+#carousel {
+    margin: auto;
+    max-width: 1100px;
+}
+
+#features {
+    background-color: #6CC44C;
+    color: white;
+}
+
+#contact {
+    color: #6CC44C;
+    background-color: #1A1A1A;
+}
+
+#contact-body {
+    color: white;
+}
